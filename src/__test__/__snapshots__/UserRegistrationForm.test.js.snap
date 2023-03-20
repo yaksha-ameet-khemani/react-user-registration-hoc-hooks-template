@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`boundary UserRegistrationForm boundary should mount User registration form without crashing 1`] = `
+Array [
+  <React.Fragment>
+    UserRegistrationForm
+  </React.Fragment>,
+]
+`;
